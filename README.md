@@ -1,1 +1,1 @@
-# COSE471 DataScience spring 2021 
+# 2021 Spring COSE474 Data Science
